@@ -1,0 +1,1 @@
+GitHub Pages ready. Upload contents of this folder to repository root.
